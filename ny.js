@@ -1,9 +1,9 @@
 
 
   
- function zoomaIn0(){djurBild[0].style.width="170px";djurBild[0].style.backgroundColor="red"; setTimeout( function(){djurBild[0].style.width="150px";djurBild[0].style.backgroundColor="black";},500)} 
- function zoomaIn1(){djurBild[1].style.width="170px"; djurBild[1].style.backgroundColor="white";setTimeout( function(){djurBild[1].style.width="150px";djurBild[1].style.color="black";},500)} 
- function zoomaIn2(){djurBild[2].style.width="170px";djurBild[2].style.backgroundColor="red"; setTimeout( function(){djurBild[2].style.width="150px";djurBild[2].style.backgroundColor="black";},500)} 
+ function zoomaIn0(){djurBild[0].style.width="170px";djurBild[0].style.color="white"; setTimeout( function(){djurBild[0].style.width="150px";djurBild[0].style.color="white";},500)} 
+ function zoomaIn1(){djurBild[1].style.width="170px"; djurBild[1].style.color="white";setTimeout( function(){djurBild[1].style.width="150px";djurBild[1].style.color="white";},500)} 
+ function zoomaIn2(){djurBild[2].style.width="170px";djurBild[2].style.color="white"; setTimeout( function(){djurBild[2].style.width="150px";djurBild[2].style.color="white";},500)} 
 
 let mainAnimal=document.querySelector(".mainAnimal");
 
